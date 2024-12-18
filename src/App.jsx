@@ -22,7 +22,7 @@ function App() {
 
   return (
     <main className="relative min-h-screen w-screen overflow-x-hidden">
-      <button onClick={onButtonClick} className="transform rotate-90 fixed bottom-36 tracking-widest-g font-general bg-black text-white py-4 px-8 -right-24 z-30">VIEW PORTFOLIO</button>
+      <button onClick={onButtonClick} className="transform rotate-90 fixed bottom-1/2 tracking-widest-g font-general bg-black text-white py-4 px-8 -right-24 z-30">VIEW PORTFOLIO</button>
       <NavBar />
       <Hero />
       <About />
