@@ -136,7 +136,7 @@ const Features = () => (
           />
         </BentoTilt>
 
-        <BentoTilt className="bento-tilt_1 bg-black row-span-1 ms-32 md:col-span-1 md:ms-0">
+        <BentoTilt className="bento-tilt_1 bg-black">
           <BentoCard
             src=""
             title={
@@ -149,7 +149,7 @@ const Features = () => (
           />
         </BentoTilt>
 
-        <BentoTilt className="bento-tilt_1 bg-black me-14 md:col-span-1 md:me-0">
+        <BentoTilt className="bento-tilt_1 bg-black ">
           <BentoCard
             src=""
             title={
